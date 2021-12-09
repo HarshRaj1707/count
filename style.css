@@ -1,0 +1,26 @@
+#d
+{
+    margin: auto;
+border: 2mm dotted black;
+background-color: blanchedalmond;
+}
+#inc
+{   margin-left: auto;
+    margin-top: auto;
+    border: 5px solid firebrick;
+    background-color: forestgreen;
+}
+#dec
+{
+    margin-left: auto;
+    margin-top: auto;
+    border: 5px saddlebrown;
+    background-color: sienna;
+}
+
+#a
+{
+    margin: auto;
+    border: 2mm dotted rebeccapurple;
+    background-color: sandybrown;
+}
